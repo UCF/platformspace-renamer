@@ -1,1 +1,1 @@
-script to remove incompatible named files and directories from a platform space
+ProMax server archive operations fails if certain characters are used. This script aims to make files and folders compliant.
